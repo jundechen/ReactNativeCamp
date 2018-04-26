@@ -1,2 +1,0 @@
-# Vote
-MiniAO for Chinsofti
